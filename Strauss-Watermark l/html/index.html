@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Watermark</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: none;
+            overflow: hidden;
+        }
+
+        #watermark {
+            position: absolute;
+            top: 10px;
+            left: -40px;
+            z-index: 9999;
+        }
+
+        #watermark img {
+            opacity: 1.1; /* 80% gennemsigtighed */
+            width: 300px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="watermark">
+        <img src="logo.png" alt="Watermark">
+    </div>
+</body>
+</html>
