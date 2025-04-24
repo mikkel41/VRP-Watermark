@@ -6,7 +6,7 @@ Setup Guide
 
 3. ensure it in your .cfg file (ensure VRP-Watermark)
 
-4. replace logo.png with your logo (it has to have the same name)
+4. replace logo.png with your logo (it has to be named "logo")
 
 5. restart your server and now your good to go:)
 
