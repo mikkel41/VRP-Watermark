@@ -1,14 +1,19 @@
 Setup Guide
 
-1. Download File
+1. Download Filen
 
-2. drop it in your "resources" folder
+2. læg den ind i din resources mappe
 
-3. ensure it in your .cfg file (ensure VRP-Watermark)
+3. ensure den i in .cgf fil (ensure VRP-Watermark)
 
-4. replace logo.png with your logo (it has to be named "logo")
+4. Erstatt logo.png med dit logo (det skal stadig hedde logo.png)
 
-5. restart your server and now your good to go:)
+5. genstat/start servern også har du fået fjernet watermarket
+
+/EKSTRA/
+hvis du vil fjerne det gamle flaxhosting watermark så fjern den her fil i din resource mappe
+
+flaxhosting-filer-main\resources\[misc]\watermark
 
 //TOS//
 
